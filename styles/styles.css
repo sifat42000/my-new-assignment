@@ -1,0 +1,256 @@
+.main-contener{
+    display: flex;
+    height: 600px;
+    
+    justify-content: space-around;
+    align-items: center;
+}
+.h3-style{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+width: 640px;
+}
+.p-style{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 670px;
+}
+.pic{
+    float: right;
+    width: 100%;
+    height: 580px;
+}
+.btn-style{
+    height: 40px;
+    width: 105px;
+    background: #E55473;
+    color: antiquewhite;
+    border: #E55473;
+}
+.Featured{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.looking{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 1300px;
+}
+.pics-contener{
+    display: flex;
+    justify-content: space-around;
+    height: 490px;
+    align-items: center;
+}
+.first-img{
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.secound-img{
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+.third-img{
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.first-flwr{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.secound-flwr{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+}
+.third-flwr{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+}
+.png-contener{
+    display: flex;
+    justify-content: space-around;
+    width: 1100px;
+    height: 418px;
+    align-items: center;
+    
+}
+.first-png{
+    width: 60px;
+height: 62px;
+flex-shrink: 0;
+
+}
+.secound-png{
+    width: 60px;
+    height: 62px;
+    flex-shrink: 0;
+}
+.third-png{
+    width: 60px;
+    height: 62px;
+    flex-shrink: 0;
+}
+.style{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+}
+.mother-div{
+    display: flex;
+    height: 800px;
+    justify-content: space-around;
+    align-items: center;
+}
+.hot-deal{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.hotdeal-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+ 
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+}
+.sing-up{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+background: #E55473;
+display: inline-flex;
+padding: 9px 24px;
+align-items: flex-start;
+gap: 10px;
+
+}
+.father-div{
+    display: flex;
+    justify-content: space-around;
+}
+.size{
+height: 320px;
+flex-shrink: 0;
+}
+.smal-contener{
+    text-align: center;
+  
+}
+.instragram{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.instragram-p{
+    color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+}
+.h3-style{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 1200px;
+
+}
+.new-p{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.mini-contener{
+    text-align: center;
+    height: 400px;
+}
+.input-style{
+    width: 700px;
+height: 37px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+}
+.Subscribe{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+background: #E55473;
+width: 99px;
+height: 43px;
+flex-direction: column;
+flex-shrink: 0;
+
+}
