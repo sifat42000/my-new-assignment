@@ -1,8 +1,8 @@
 .main-contener{
-    height: 900px;
-
+    height: 700px;
    display: flex;
    justify-content: space-around;
+   background: rgba(229, 84, 115, 0.10);
    
 }
 .first-contener{
@@ -10,7 +10,7 @@
 }
 .h3-style{
     color: #272727;
-    font-family: Lato;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 80px;
     font-style: normal;
     font-weight: 800;
@@ -39,7 +39,7 @@ height: 700px;
 .Featured{
     color: #272727;
 text-align: center;
-font-family: Lato;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 40px;
 font-style: normal;
 font-weight: 800;
@@ -64,7 +64,9 @@ width: 1300px;
 .first-img{
     height: 320px;
     border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+   
 }
 .secound-img{
     height: 320px;
@@ -85,6 +87,8 @@ font-style: normal;
 font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 .secound-flwr{
     color: #272727;
@@ -94,6 +98,7 @@ text-decoration-line: underline;
     font-style: normal;
     font-weight: 700;
     line-height: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .third-flwr{
     color: #272727;
@@ -103,6 +108,7 @@ text-decoration-line: underline;
     font-style: normal;
     font-weight: 700;
     line-height: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .png-contener{
     display: flex;
@@ -143,6 +149,7 @@ font-size: 24px;
 font-style: normal;
 font-weight: 600;
 line-height: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .mother-div{
     display: flex;
@@ -157,6 +164,7 @@ font-size: 40px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .hotdeal-p{
     color: rgba(39, 39, 39, 0.60);
@@ -202,6 +210,7 @@ font-size: 40px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .instragram-p{
     color: rgba(39, 39, 39, 0.60);
@@ -222,6 +231,7 @@ text-align: center;
     font-weight: 800;
     line-height: normal;
     width: 1200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 .new-p{
@@ -262,6 +272,7 @@ background: #FFF;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .fotter{
   height: 300px;
@@ -302,6 +313,7 @@ line-height: normal;
    color: #E55473;
 
 }
+
 
 
 
