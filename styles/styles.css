@@ -116,6 +116,8 @@ text-decoration-line: underline;
     width: 60px;
 height: 62px;
 flex-shrink: 0;
+display: block;
+margin: auto;
 
 
 }
@@ -123,11 +125,15 @@ flex-shrink: 0;
     width: 60px;
     height: 62px;
     flex-shrink: 0;
+    display: block;
+margin: auto;
 }
 .third-png{
     width: 60px;
     height: 62px;
     flex-shrink: 0;
+    display: block;
+margin: auto;
 }
 .style{
     color: rgba(39, 39, 39, 0.80);
@@ -166,12 +172,7 @@ flex-direction: column;
 flex-shrink: 0;
 }
 .sing-up{
-    color: #FFF;
-font-family: Lato;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+    height: 40px; width: 105px; background: #E55473; color: antiquewhite; border: #E55473; 
 
 background: #E55473;
 display: inline-flex;
@@ -246,20 +247,13 @@ height: 37px;
 flex-shrink: 0;
 border-radius: 8px;
 background: #FFF;
+
+
+
 }
 .Subscribe{
-    color: #FFF;
-    font-family: Lato;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    border-radius: 8px;
-background: #E55473;
-width: 99px;
-height: 43px;
-flex-direction: column;
-flex-shrink: 0;
+    height: 40px; width: 105px; background: #E55473; color: antiquewhite; border: #E55473;
+  
 }
 .flowershopp{
     color: #E55473;
@@ -288,8 +282,26 @@ flex-shrink: 0;
 }
 .footer-snddiv{
     background: #111010;
-    height: 300px;
+    height: 370px;
     align-items: center;
+
 }
+.flowershop-h66{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.white{
+    color: #FFF;
+}
+.pink{
+   color: #E55473;
+
+}
+
 
 
